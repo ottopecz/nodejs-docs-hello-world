@@ -7,4 +7,4 @@ deploy:
   username: yupanaCIUser
   password: pE29medGcN3MXwJx
   site: yupanaHelloWorld
-  on: master
+  on: build
